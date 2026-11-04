@@ -1,0 +1,18 @@
+# Claude folder
+.claude/
+
+# Structure / rules docs
+architecture.md
+design.md
+phases.md
+prd.md
+rules.md
+
+# Environment / secrets
+.env
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
